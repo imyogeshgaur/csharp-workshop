@@ -1,0 +1,15 @@
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.csproj.AssemblyReference.cache
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.AssemblyInfoInputs.cache
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.AssemblyInfo.cs
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\bin\Debug\net6.0\conditionalStatements.exe
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\bin\Debug\net6.0\conditionalStatements.deps.json
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\bin\Debug\net6.0\conditionalStatements.runtimeconfig.json
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\bin\Debug\net6.0\conditionalStatements.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\bin\Debug\net6.0\ref\conditionalStatements.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\bin\Debug\net6.0\conditionalStatements.pdb
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\ref\conditionalStatements.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.pdb
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\conditionalStatements\obj\Debug\net6.0\conditionalStatements.genruntimeconfig.cache
