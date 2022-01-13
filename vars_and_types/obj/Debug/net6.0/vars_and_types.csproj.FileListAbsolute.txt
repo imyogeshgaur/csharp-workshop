@@ -1,0 +1,15 @@
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\bin\Debug\net6.0\vars_and_types.exe
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\bin\Debug\net6.0\vars_and_types.deps.json
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\bin\Debug\net6.0\vars_and_types.runtimeconfig.json
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\bin\Debug\net6.0\vars_and_types.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\bin\Debug\net6.0\ref\vars_and_types.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\bin\Debug\net6.0\vars_and_types.pdb
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.csproj.AssemblyReference.cache
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.AssemblyInfoInputs.cache
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.AssemblyInfo.cs
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.csproj.CoreCompileInputs.cache
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\ref\vars_and_types.dll
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.pdb
+C:\Users\YOGESH GAUR\Desktop\C# Workshop\vars_and_types\obj\Debug\net6.0\vars_and_types.genruntimeconfig.cache
